@@ -13,6 +13,7 @@ int getTotalXP(int lvl){
 	return ans;
 }
 int main(){
+	cout<<"Hypixel Level Calculator by Vader100"<<endl;
 	cout<<"What is your current Hypixel level? ";
 	cin>>curLvl;
 	cout<<endl;
